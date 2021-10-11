@@ -1,0 +1,1 @@
+Hi World. This is my project for Odin curriculum. Purpose of this little project is to brush up/demonstrate my skills related to: git, linux terminal workflow and basic html elements.
