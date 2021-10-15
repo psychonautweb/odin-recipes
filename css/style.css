@@ -7,3 +7,10 @@ body {
     text-align: center;
     color: rgb(rgb(214, 247, 29), green, blue);
 }
+
+.introparagraph:hover {
+    background-color: seashell;
+    font-size: large;
+    font-weight: bold;
+    font-family: monospace;
+}
